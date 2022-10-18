@@ -1,0 +1,45 @@
+
+.jack{
+    position:absolute;
+    top:19px;
+    right:230px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.listofb{
+    position:absolute;
+    top:40px;
+    right:20px;
+    /* margin: 20px 20px; */
+    width: 55px;
+    height: 25px;
+}
+.but1{
+    position: relative;
+    width: 120px;
+    height: 30px;
+    font-family: 'Ubuntu',sans-serif;
+    margin: 1.2px 1.2px;
+    border-radius: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+
+}
+.fa-user-circle::before{
+   left:0px;
+    position: relative;
+    font-size:33px;
+   
+}
+.but2{
+    position: relative;
+    width: 120px;
+    height: 30px;
+    font-family: 'Ubuntu',sans-serif;
+    margin: 1.2px 1.2px;
+    border-radius: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.button31{
+    position: static;
+    border:2px solid #58F123;
+    color:white;
+    width:116px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Ubuntu';
+    cursor: pointer;
+}

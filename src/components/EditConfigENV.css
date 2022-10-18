@@ -1,0 +1,34 @@
+.container-fluid{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-image: url(/public/images/8.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+.b{
+    position: relative;
+    width:10px;
+    border-bottom: 5px solid white;
+    
+
+}
+.img1{
+    position: relative;
+    height: 2rem;
+}
+.bt{
+    position: static;
+    border:2px solid #F41313;
+    color:white;
+    width:116px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Ubuntu';
+    cursor: pointer;
+}

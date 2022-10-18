@@ -1,0 +1,95 @@
+.container-fluid3{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-color: #26b1dd;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+.b{
+    position: relative;
+    width:10px;
+    border-bottom: 5px solid white;
+    
+
+}
+.material-symbols-outlined{
+    position: relative;
+    margin-left: 35rem;
+    font-weight: bolder;
+    color: black;
+    cursor: pointer;
+}
+.fa-gear{
+    position: relative;
+    margin-left: 0.7rem;
+}
+.form1{
+    position: relative;
+    width:10rem;
+    margin-left: 9rem;
+    margin-top:3rem;
+}
+.form2{
+    position: relative;
+    width:10rem;
+    margin-left: 9rem;
+    margin-top:3rem;
+    margin-bottom: 2rem;
+}
+.select{
+    position: relative;
+    border: 1px solid black;
+    border-radius: 3rem;
+    width:5rem;
+}
+.button25{
+    
+    position: relative;
+    color:white;
+    background-color: #249712;
+    width:max-content;
+    padding:5px 2rem;
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    margin: 4rem 2rem;
+}
+.button26{
+    
+    position: relative;
+    color:white;
+    background-color: #F41313;
+    width:max-content;
+    padding:5px 2rem;
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    margin: 4rem 0rem 4rem 5rem;
+}
+.img25{
+    position: relative;
+    height:50px;
+    margin-left: 32rem;
+}
+.img26{
+    position: relative;
+    height:50px;
+    margin-left: 3rem;
+}
+.btn27{
+    position: relative;
+    
+    border:2px solid #58F123;
+    color:white;
+    width:116px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Ubuntu';
+    cursor: pointer;
+    background-color: #58F123;
+
+}

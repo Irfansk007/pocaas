@@ -1,0 +1,59 @@
+.container-fluid{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-image: url(/public/images/8.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+.b{
+    position: relative;
+    width:10px;
+    border-bottom: 5px solid white;
+    padding: 0 0 10px;
+    margin-bottom: 2rem;
+   
+
+}
+.box1{
+   
+    display:block;
+}
+.btn1{
+    position: static;
+    border:2px solid #58F123;
+    color:white;
+    width:116px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Ubuntu';
+    cursor: pointer;
+    margin-top: 2rem;
+}
+.btn2{
+    position: static;
+    border:2px solid #58F123;
+    color:white;
+    width:116px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: 'Ubuntu';
+    cursor: pointer;
+    
+}
+.btn1:focus{
+    position:static;
+    background-color: white;
+    color: black;
+}
+.btn2:hover{
+    position: relative;
+    background-color: white;
+    color:black;
+}

@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+.container-fluid1{
+
+  position: relative;
+  width: 100%;
+  height: 3.7rem;
+  background: linear-gradient(to top, #4290af 0%, #013e60 100%);
+}
+.text {
+  position: relative;
+  margin-left: 0.7rem;
+  
+}
+.fas {
+  position: relative;
+}
+.fa-angle-left {
+  position: relative;
+  margin-left: 2rem;
+  height: 2rem;
+  color: black;
+  margin-top: 0.2rem;
+
+  cursor: pointer;
+}
+.link{
+  color: black;
+  text-decoration: none;
+}
+.link:hover{
+  color:black;
+  text-decoration: none;
+}

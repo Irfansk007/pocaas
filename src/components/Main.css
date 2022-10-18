@@ -1,0 +1,41 @@
+.container-fluid4{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-image: url(/public/images/0.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+/* img{
+    position: relative;
+
+} */
+.hsbc{
+    font-size: 63px;
+    border-color: green;
+    color: #ffff;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 700;
+    -webkit-text-stroke: 2px black;
+    text-shadow: 10px 9px 4px rgba(0, 0, 0, 0.087);
+    position: relative;
+    letter-spacing: 0.585em;
+}
+.circle9{
+    position: relative;
+    height: 53px;
+    width:53px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    border-color: antiquewhite;
+}
+.red{
+    position: relative;
+    height:46px;
+    top:5px;
+    left:3px;
+}

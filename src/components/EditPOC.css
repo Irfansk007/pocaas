@@ -1,0 +1,52 @@
+.container-fluid{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-image: url(/public/images/8.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+.b{
+    position: relative;
+    width:10px;
+    border-bottom: 5px solid white;
+    padding: 0 0 10px;
+    margin-bottom: 2rem;
+
+}
+.box{
+    position: relative;
+    margin-top: 0rem;
+}
+.input-field{
+    position: relative;
+    background-color: transparent;
+    border: 3px solid rgba(255, 255, 255, 1);
+
+}
+.pr-4{
+    position: relative;
+    margin-right: 3rem;
+}
+.tg{
+    position: relative;
+    letter-spacing: 5rem;
+}
+.box1{
+    position: relative;
+    height: 2rem;
+}
+.k{
+    position: relative;
+    padding: 0px 20px 0px 20px;
+    margin-left: 2rem;
+
+   
+}
+.btn:hover{
+    background-color: aqua;
+}

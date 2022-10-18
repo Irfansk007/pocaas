@@ -1,0 +1,81 @@
+.container-fluid{
+    position: fixed; /* this line */
+    display: inline-flex;
+    background-image: url(/public/images/8.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+}
+.b{
+    position: relative;
+    width:10px;
+    border-bottom: 5px solid white;
+    padding: 0 0 10px;
+
+}
+.box{
+    position: relative;
+    margin-top: 2rem;
+}
+.box1{
+    position: relative;
+    margin-top: 12rem;
+}
+.circle{
+    position: relative;
+    display: flex;
+    width:12rem;
+    height:12rem;
+    border-radius:50%;
+    border: 2px solid white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.circle1{
+    position: relative;
+    top:-1rem;
+    display: flex;
+    width:12rem;
+    height:12rem;
+    border-radius:50%;
+    border: 2px solid white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.push{
+    position: relative;
+    margin-left: 4rem;
+    padding-right: 0px;
+    padding-bottom: 2rem;
+    
+}
+.pull{
+    position: relative;
+    margin-right: 5rem;
+    padding-left: 2rem;
+    margin-top:0rem;
+    
+    
+}
+img{
+    position: relative;
+    padding-top: 0;
+}
+.text{
+    position: relative;
+    margin-top: 2rem;
+    margin-right: 6rem;
+}
+.text1{
+    position: relative;
+    top:-1rem;
+    margin-top: 1rem;
+    margin-right: 0rem;
+    right:3rem;
+}
