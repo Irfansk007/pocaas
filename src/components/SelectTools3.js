@@ -58,7 +58,7 @@ const SelectTools3 = () => {
 Looker is a powerful business intelligence (BI) tool that can help a business develop insightful visualizations. It offers a user-friendly workflow, is completely browser-based (eliminating the need for desktop software), and facilitates dashboard collaboration.
               </div>
               <span className="align-items-center justify-content-center" style={{position:'static'}}>
-                <Button1 buttonname="select" />
+              <button className="btn1" >select</button>
               </span>
             </div>
           </div>
@@ -87,7 +87,7 @@ Looker is a powerful business intelligence (BI) tool that can help a business de
 Business intelligence (BI) combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations to make more data-driven decisions.
               </div>
               <span className="align-items-center justify-content-center ">
-                <Button1 buttonname="select" />
+              <button className="btn1" >select</button>
               </span>
             </div>
           </div>
@@ -115,7 +115,7 @@ Business intelligence (BI) combines business analytics, data mining, data visual
               Qlik Sense Desktop is a Windows application that allows users to create visualizations, charts, interactive dashboards and analytics apps for local and offline usage.
               </div>
               <span className="align-items-center justify-content-center ">
-                <Button1 buttonname="select" />
+              <button className="btn1" >select</button>
               </span>
             </div>
           </div>
@@ -123,7 +123,7 @@ Business intelligence (BI) combines business analytics, data mining, data visual
       
       </div>
       <Link className="align-items-center justify-content-center text-center m-4" to={"/"}>
-      <Button1 buttonname="Next" />
+      <button className="btn2" >Next</button>
       </Link>
     </div>
   );
