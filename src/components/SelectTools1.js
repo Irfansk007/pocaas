@@ -85,7 +85,7 @@ const SelectTools1 = () => {
                 style={{ marginTop: "1rem", height: "5rem" }}
               ></img>
               <div className="" style={{ marginTop: "0.5rem" }}>
-                Privitar
+                Jupyter
               </div>
               <div
                 style={{
@@ -95,8 +95,7 @@ const SelectTools1 = () => {
                 }}
                 className="fw-light"
               >
-                Privitar empowers organizations to harness the power of data to
-                innovate faster, while protecting the privacy of individuals.
+                The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. 
               </div>
               <span className="align-items-center justify-content-center ">
               <button className="btn1">Select</button>
